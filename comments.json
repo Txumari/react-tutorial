@@ -6,7 +6,17 @@
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
+        "author": "Paul O\u2019Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1465917769176,
+        "author": "juan",
+        "text": "hola"
+    },
+    {
+        "id": 1465917772593,
+        "author": "jksdfj",
+        "text": "sefs"
     }
 ]
